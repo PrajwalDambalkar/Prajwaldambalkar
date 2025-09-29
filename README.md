@@ -119,6 +119,24 @@ A complete web application providing online room booking services with features 
 
 ---
 
+### [HiRides](https://github.com/PrajwalDambalkar/HiRides)
+*A ride-sharing web application interface.*
+
+A modern web application for ride-sharing services with an intuitive user interface for booking rides and managing trips.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### [Movie Seat Booking](https://github.com/PrajwalDambalkar/MovieSeatBooking)
+*An interactive movie theater seat booking system.*
+
+A visual seat selection interface for booking movie theater seats with real-time availability updates and an intuitive user experience.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
 ## 💡 What I'm Working On
 
 - 🔭 Building scalable data pipelines and distributed systems
@@ -141,7 +159,7 @@ A complete web application providing online room booking services with features 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalDambalkar&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalDambalkar&layout=compact&theme=radical&langs_count=8&hide=html,css&exclude_repo=IGrande-website,HiRides,MovieSeatBooking" alt="Top Languages" height="180"/>
 </p>
 
 ### 📈 Contribution Graph
@@ -150,7 +168,7 @@ A complete web application providing online room booking services with features 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalDambalkar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
-### 🐍 Watch the Snake Eat My Contributions!
+### Some Contributions!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrajwalDambalkar/PrajwalDambalkar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
