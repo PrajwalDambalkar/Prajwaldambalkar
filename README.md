@@ -9,6 +9,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PrajwalDambalkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 📍 San Francisco Bay Area | 🎓 Graduate Student at San Jose State University
 
 I'm a passionate graduate student pursuing **Applied Data Science** at San Jose State University. I thrive on building scalable data pipelines, developing full-stack applications, architecting distributed systems, and leveraging data to solve real-world problems. My focus is on creating efficient, impactful solutions using modern technologies and best practices.
@@ -168,7 +172,7 @@ A visual seat selection interface for booking movie theater seats with real-time
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalDambalkar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
-### Some Contributions!
+### 🐍 Watch the Snake Eat My Contributions!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrajwalDambalkar/PrajwalDambalkar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
