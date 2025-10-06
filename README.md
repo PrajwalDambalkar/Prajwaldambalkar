@@ -172,7 +172,7 @@ A visual seat selection interface for booking movie theater seats with real-time
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalDambalkar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
-### 🐍 Watch the Snake Eat My Contributions!
+### 📈 My Contributions 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrajwalDambalkar/PrajwalDambalkar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
