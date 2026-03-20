@@ -97,7 +97,7 @@ Built an end-to-end agentic booking platform using LangGraph and Ollama (qwen3 1
 
 ---
 
-### [Forecast Blackout — Power Outage Risk Prediction](https://github.com/PrajwalDambalkar/Forecast-Blackout)
+### [Forecast Blackout — Power Outage Risk Prediction](https://github.com/PrajwalDambalkar/DW-Project)
 *An end-to-end ML pipeline for predicting power outage risk using Airflow, Snowflake, dbt, and AWS SageMaker.*
 
 Architected a production-grade data pipeline using Amazon MWAA (Airflow) to orchestrate data extraction from Snowflake to S3, with automated dbt transformations enforcing data quality checks and schema validation. Trained and evaluated ML models in AWS SageMaker and visualized outage risk scores in QuickSight for non-technical stakeholders.
@@ -177,11 +177,10 @@ Demonstrates both ETL and ELT approaches to data processing, showcasing modern d
 ## 💡 What I'm Working On
 
 - 🔭 Building scalable data pipelines and distributed systems
-- 🤖 Developing AI agents and RAG systems using LangChain, LangGraph, and open-source LLMs
-- 🌱 Deepening expertise in data governance, metadata management, and enterprise data platforms
-- 👨‍🎓 Pursuing Master's in Applied Data Science at San Jose State University
-- 👯 Open to collaborating on data engineering, ML, and AI projects
-- 💬 Ask me about Python, Airflow, LangChain, ETL pipelines, or data governance
+- 🤖 Developing AI multimodal agents and RAG systems using LangChain, LangGraph, and open-source LLMs
+- 🌱 Deepening expertise in LLMS, RAG architecture, scalable distributed systems, and enterprise data platforms
+- 👨‍🎓 Pursuing a Master's in Applied Data Science at San Jose State University
+- 👯 Open to collaborating on Full-Stack, ML, and AI projects
 
 ---
 
